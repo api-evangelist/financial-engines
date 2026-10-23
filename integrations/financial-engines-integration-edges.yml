@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/financial-engines/integrations
+- https://n8n.io/integrations/financial-engines/
+- https://composio.dev/toolkits/financial-engines
+- https://monid.ai/tools/financial-engines
+checked:
+- https://composio.dev/toolkits/financial-engines
+- https://monid.ai/tools/financial-engines
+- https://n8n.io/integrations/financial-engines/
+- https://zapier.com/apps/financial-engines/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
